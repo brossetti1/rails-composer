@@ -62,7 +62,7 @@ h2. How To Use Rails Composer
 To build a Rails application using the Rails Composer tool:
 
 <pre>
-$ rails new myapp -m https://raw.github.com/RailsApps/rails-composer/master/composer.rb
+$ rails new myapp -m git@github.com:brossetti1/rails-composer.git
 </pre>
 
 Replace @myapp@ with the name of your application.
